@@ -14,7 +14,7 @@
 Each folder is a standalone project with its own dataset and analysis.
 
 ## Project Summaries
-1. OmniPower – Sales Prediction Using Linear Regression
+1. ### OmniPower – Sales Prediction Using Linear Regression
 
 	This project predicts sales values based on features such as Price and Promotion.
 	
@@ -36,7 +36,7 @@ Each folder is a standalone project with its own dataset and analysis.
 	Goal: <br>
 	Understand the relationship between price, promotions, and sales, and build a simple regression model to assist business forecasting.
 
-2. Boston Housing – Predicting House Prices
+2. ### Boston Housing – Predicting House Prices
 
 	A classic regression problem predicting median house value based on multiple housing features.
 	
