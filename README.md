@@ -38,7 +38,7 @@ Each folder is a standalone project with its own dataset and analysis.
 
 2. ### Boston Housing – Predicting House Prices
 
-	A classic regression problem predicting median house value based on multiple housing features.
+	A classic regression problem predicting median house value based on housing feature (RM). Looking to implement multiple features down the road.
 	
 	Includes:
 	
