@@ -1,14 +1,15 @@
 # Overview of Linear Regression Projects
 
 ## 📁  Project Structure
-/omnniPower<br>
-    ├── data.csv <br>
-    ├── notebook.ipynb<br>
-    └── README.md <br>
 /boston<br>
     ├── boston.csv<br>
     ├── notebook.ipynb<br>
     └── README.md<br>
+/omniPower<br>
+    ├── omniPower.csv <br>
+    ├── notebook.ipynb<br>
+    └── README.md <br>
+
 
 Each folder is a standalone project with its own dataset and analysis.
 
