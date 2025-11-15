@@ -55,7 +55,7 @@ Each folder is a standalone project with its own dataset and analysis.
 	Goal:
 	Identify how important housing attributes influence pricing and build a baseline predictive model.
 
-## Technologies Used:
+## Technologies Used
 
 Python
 
